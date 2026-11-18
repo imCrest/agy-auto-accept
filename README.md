@@ -46,7 +46,12 @@ Or clone and run locally:
 ```bash
 git clone https://github.com/imCrest/agy-auto-accept.git
 cd agy-auto-accept
+
+# Linux / macOS:
 bash install.sh
+
+# Windows (Command Prompt):
+install.bat
 ```
 
 Then reload your shell:
